@@ -1,6 +1,6 @@
 cask "ai-usage-bar" do
-  version "1.3.0"
-  sha256 "c03a24ea1a2e7aec1f8e96f1c4da4d108be9f1f057e56cbc808123c3e4afb0da"
+  version "1.4.0"
+  sha256 "fa3107bff3e7f615b1d187a5fbfad7927768a9dd13ae5cfa3666e30a2c37cf19"
 
   url "https://github.com/hong-minji/ai-usage-bar/releases/download/v#{version}/AIUsageBar-#{version}-universal.zip"
   name "AI Usage Bar"
